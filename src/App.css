@@ -27,9 +27,9 @@
   border: 1px solid #dbdbdb;
   padding: 20px;
   text-align: center;}
-.all-products div img{width:50%}
+.all-products div img{width:30%}
 
-#cart-card.all-products div img{width:10%}
+#cart-card.all-products div img{width:3%}
 #cart-card.all-products div{flex: 25%;
   height: 150px;
   border: 1px solid #dbdbdb;
